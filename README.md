@@ -4,8 +4,8 @@ Made for use with Plague? Where? and Bubonic by David
 
 Thanks Zachary from 5776K; Kabir & Norrel from 5776A; Aarav from 5776T; Jerry from CMAA
 
-<img src="img/coro_code.png" height="300">
-<img src="img/coro_path.png" height="300">
+<img src="coro_code.png" height="300">
+<img src="coro_path.png" height="300">
 
 Think of Bubonic as where the code is written and you can see the path the robot takes, and Corona is a visualizer where code is sent to be drawn.
 
